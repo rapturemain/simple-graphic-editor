@@ -1,7 +1,6 @@
 package Logic.Core;
 
 import GUI.Elements.Element;
-import com.sun.istack.internal.Nullable;
 
 public class Layer {
     public Layer(Image image) {
